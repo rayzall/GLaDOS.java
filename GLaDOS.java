@@ -236,7 +236,7 @@ public class GLaDOS {
         String text69 = "STILL ALIVE";
         typewriterEffect69(text69);
 
-        String text70 = "Coded by: Yours Truly";
+        String text70 = "Coded by: KP RAYZALL";
         typewriterEffect70(text70);
 
         String text71 = "From Half-Life: Portal";
